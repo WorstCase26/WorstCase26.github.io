@@ -16,3 +16,5 @@ This is for assignment purposes ONLY!
 This is a picture of the awesome person who is assisting me in gaining this technical proficiency!
 
 [![Sorting with lambda Functions](https://img.youtube.com/vi/VBeobBcnEqI?t=110/0.jpg)](http://www.youtube.com/watch?v=VBeobBcnEqI?t)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VBeobBcnEqI?start=110" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
