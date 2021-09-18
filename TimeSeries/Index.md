@@ -4,5 +4,5 @@ description: Course Content
 ---
 
 TimeSeries Decomposition work in the CTBA class at W&M
-- [Time Series Decomposition(html)](TimeSeriesDecompositionNext-checkpoint.html)
-- [Time Series Decomposition(ipynb)](TimeSeriesDecompositionNext-checkpoint.ipynb)
+- [TimeSeries Decomposition (html)](TimeSeriesDecompositionNext-checkpoint.html)
+- [TimeSeries Decomposition (ipynb)](TimeSeriesDecompositionNext-checkpoint.ipynb)
