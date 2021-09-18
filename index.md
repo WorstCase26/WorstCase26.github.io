@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: Changes are not easy but can be had!
+title: My Crash Course on Github
+description: I am not easy but I can be had!
 ---
 
 ![My Picture](/pics/PBlogo.jpg)
