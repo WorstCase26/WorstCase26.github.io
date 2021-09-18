@@ -11,7 +11,7 @@ This is content used to build out my Github
 
 This is for assignment purposes ONLY!
 
--[Sample Repository](https://github.com/WorstCase26/BUAD-Launch)
+- [Sample Repository](https://github.com/WorstCase26/BUAD-Launch)
 
 This is a picture of the awesome person who is assisting me in gaining this technical proficiency!
 
