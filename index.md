@@ -1,6 +1,6 @@
 ---
 title: New Title
-description: The titles and descriptions can be changed==TEST==
+description: Changes are not easy but can be had!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
