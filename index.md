@@ -15,4 +15,6 @@ This is for assignment purposes ONLY!
 
 This is a picture of the awesome person who is assisting me in gaining this technical proficiency!
 
-[![Sorting with lambda Functions](https://img.youtube.com/vi/VBeobBcnEqI?t=110/0.jpg)](https://www.youtube.com/watch?v=VBeobBcnEqI?t)
+![My el profesor](/pics/PBlogo.jpg)
+
+[![Sorting with lambda Functions](https://img.youtube.com/vi/VBeobBcnEqI/0.jpg)](https://www.youtube.com/watch?v=VBeobBcnEqI?t)
