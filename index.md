@@ -3,6 +3,10 @@ title: My Crash Course on Github
 description: I am not easy but I can be had!
 ---
 
+
+
+
+
 This is me doing what I do best!
 ![My Picture](/pics/Iraq_2.jpg)
 
