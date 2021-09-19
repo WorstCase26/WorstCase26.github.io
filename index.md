@@ -15,6 +15,10 @@ This is for assignment purposes ONLY!
 
 This is a picture of the awesome person who is assisting me in gaining this technical proficiency!
 
+
+Prof. Dr. Guillermo Rodríguez-Abitia
 ![My el profesor](/pics/ProfRod.JPG)
+
+Youtube Video of Prof. Dr. Guillermo Rodríguez-Abitia as keynote Speaker at National Autonomous University of Mexico  
 
 [![Sorting with lambda Functions](https://img.youtube.com/vi/VBeobBcnEqI/0.jpg)](https://www.youtube.com/watch?v=VBeobBcnEqI?t)
