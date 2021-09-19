@@ -20,10 +20,10 @@ This is for assignment purposes ONLY!
 
 
 
-This is a picture of the awesome person who is assisting me in gaining this technical proficiency!
 
 
-Prof. Dr. Guillermo Rodríguez-Abitia
+
+This is the man himself, Prof. Dr. Guillermo Rodríguez-Abitia
 ![My el profesor](/pics/ProfRod.JPG)
 
 
