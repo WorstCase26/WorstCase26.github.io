@@ -1,6 +1,6 @@
 ---
-title: My Crash Course on Github
-description: Doing some Github action!
+title: Github Test Page
+description: Github Page --Under Construction--
 ---
 
 
@@ -27,5 +27,5 @@ This is the man himself, Prof. Dr. Guillermo Rodríguez-Abitia
 ![My el profesor](/pics/ProfRod.JPG)
 
 
-Youtube Video of Prof. Dr. Guillermo Rodríguez-Abitia as keynote Speaker at National Autonomous University of Mexico.  
+Youtube Video of Prof. Dr. Guillermo Rodríguez-Abitia as keynote Speaker at the National Autonomous University of Mexico.  
 [![Sorting with lambda Functions](https://img.youtube.com/vi/VBeobBcnEqI/0.jpg)](https://www.youtube.com/watch?v=VBeobBcnEqI?t)
