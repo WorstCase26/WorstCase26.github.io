@@ -1,19 +1,18 @@
 ---
-Title: Worst Case Scenario Projects
-Description: My Data Science Journey
+ Worst Case Scenario Projects | My Data Science Journey
 
 ---
 
 
 
+  Love this drawing for some reason!
 
 
-Love this drawing for some reason!
 ![My Picture](/pics/mongooseclip2_GH.jpg)
 
-This is content used to build out my Github
+So, 3 years of data science work and I am jus now piecing a page together. Good times will be had!
 
-- [Counties](/counties/index.md)
+- #[Counties](/counties/index.md)
 
 This is for assignment purposes ONLY!
 
