@@ -1,6 +1,6 @@
 ---
-title: Worst Case Scenario Projects
-description: My Data Science Journey
+Title: Worst Case Scenario Projects
+Description: My Data Science Journey
 
 ---
 
@@ -8,8 +8,8 @@ description: My Data Science Journey
 
 
 
-This is me doing what I do best!
-![My Picture](/pics/Iraq_2.jpg)
+Love this drawing for some reason!
+![My Picture](/pics/mongooseclip2.jpg)
 
 This is content used to build out my Github
 
