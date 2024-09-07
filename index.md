@@ -9,7 +9,7 @@ Description: My Data Science Journey
 
 
 Love this drawing for some reason!
-![My Picture](/pics/mongooseclip2.jpg)
+![My Picture](/pics/mongooseclip2_GH.jpg)
 
 This is content used to build out my Github
 
