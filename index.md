@@ -1,5 +1,3 @@
-Worst Case Scenario Projects | My Data Science Journey
-
 My Alter Ego is a Splenetic Mongoose!
 
 
