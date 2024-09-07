@@ -1,5 +1,5 @@
-title: Github Test Page
-description: Doing some Github action!
-show_downloads: false
+title: Worst Case Scenario Projects
+description: This page is being built to highlight projects worked on over the past few years to give potential employers a snapshot of work completed.
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
