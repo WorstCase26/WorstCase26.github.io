@@ -27,9 +27,8 @@ This is for assignment purposes ONLY!
 
 
 
-I am so thankful for my family and all they have sacrificed for me. Without them, I am forever grateful.
-[![Pray](pics/family.jpg)](https://www.youtube.com/watch?v=LfxY1sg5_rw)
+I am so thankful for my family and all they have sacrificed for me. I am forever grateful. Please click on the picture.
+[![Family](pics/family.jpg)](https://www.youtube.com/watch?v=LfxY1sg5_rw)
 
 
-Youtube Video of Prof. Dr. Guillermo Rodríguez-Abitia as keynote Speaker at the National Autonomous University of Mexico.  
-[![Sorting with lambda Functions](https://img.youtube.com/vi/VBeobBcnEqI/0.jpg)](https://www.youtube.com/watch?v=VBeobBcnEqI?t)
+
