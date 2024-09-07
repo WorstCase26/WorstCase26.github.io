@@ -35,7 +35,7 @@ So, 3 years of data science work and I am just now piecing a page together. Good
 
 
 I am so thankful for my family and all they have sacrificed for me. I am forever grateful. 
-[![Family](pics/family.jpg)](https://www.youtube.com/watch?v=Sfg6-4mBs6Y)
+[![Family](pics/family.jpg)](https://www.youtube.com/watch?v=bnVUHWCynig)
 
 
 
